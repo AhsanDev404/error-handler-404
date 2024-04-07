@@ -1,4 +1,3 @@
-
 ```markdown
 # error-handler-dev
 
@@ -78,7 +77,10 @@ app.listen(PORT, () => {
 
 Contributions are welcome! Please feel free to open an issue or submit a pull request.
 
-```
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ## GitHub Repository
 
 [View on GitHub](https://github.com/AhsanDev404/error-handler-dev)
