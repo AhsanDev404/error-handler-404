@@ -1,4 +1,3 @@
-Apologies for the confusion. Here's the README.md file content with proper Markdown code formatting:
 
 ```markdown
 # error-handler-404
