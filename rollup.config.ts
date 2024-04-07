@@ -10,5 +10,10 @@ export default {
   plugins: [
     typescript(), // Use TypeScript plugin
   ],
-  external: [], // Add external dependencies here if needed
+  external: [
+    // Add external dependencies here if needed
+    '@types/express',
+    'rollup',
+    'rollup-plugin-typescript2'
+  ],
 };
