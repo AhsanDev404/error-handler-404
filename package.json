@@ -1,0 +1,24 @@
+{
+  "name": "error-handler-404",
+  "version": "1.0.0",
+  "description": "Express.js middleware for handling errors with customizable responses.",
+  "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AhsanDev404/error-handler-404.git"
+  },
+  "author": "AhsanDev404 <ahsan.dev.404@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.4"
+  },
+  "dependencies": {
+    "@types/express": "^4.17.21",
+    "rollup": "^4.14.0",
+    "rollup-plugin-typescript2": "^0.36.0"
+  }
+}
