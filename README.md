@@ -1,32 +1,32 @@
 
 ```markdown
-# error-handler-404
+# error-handler-dev
 
-`error-handler-404` is a TypeScript package for handling errors and asynchronous functions in an Express.js application.
+`error-handler-dev` is a TypeScript package for handling errors and asynchronous functions in an Express.js application.
 
 ## Installation
 
-To install `error-handler-404`, you can use npm or yarn:
+To install `error-handler-dev`, you can use npm or yarn:
 
 ```bash
-npm install error-handler-404
+npm install error-handler-dev
 ```
 
 or
 
 ```bash
-yarn add error-handler-404
+yarn add error-handler-dev
 ```
 
 ## Usage
 
 ### Error Handling Middleware
 
-The error handling middleware provided by `error-handler-404` catches errors and sends appropriate responses to the client.
+The error handling middleware provided by `error-handler-dev` catches errors and sends appropriate responses to the client.
 
 ```typescript
 import express from 'express';
-import errorMiddleware from 'error-handler-404';
+import errorMiddleware from 'error-handler-dev';
 
 const app = express();
 
@@ -48,7 +48,7 @@ The `catchAsync` function wraps asynchronous route handlers to catch any errors 
 
 ```typescript
 import express from 'express';
-import catchAsyncError from 'error-handler-404';
+import catchAsyncError from 'error-handler-dev';
 
 const app = express();
 
