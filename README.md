@@ -78,9 +78,9 @@ app.listen(PORT, () => {
 
 Contributions are welcome! Please feel free to open an issue or submit a pull request.
 
-## License
+```
+## GitHub Repository
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+[View on GitHub](https://github.com/AhsanDev404/error-handler-dev)
 ```
 
-This README.md file content is properly formatted as Markdown code, suitable for embedding into a README.md file in a GitHub repository or similar platforms.
