@@ -1,5 +1,5 @@
 {
-  "name": "error-handler-404",
+  "name": "error-handler-dev",
   "version": "1.0.1",
   "description": "Express.js middleware for handling errors with customizable responses.",
   "main": "dist/index.js",
